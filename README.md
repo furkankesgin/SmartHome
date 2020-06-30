@@ -1,6 +1,7 @@
 # Smart Home
 
 In these times, smart homes are getting arise. Some materials are available to buy, not too much high price. But using arduino and bluetooth(This can be a espwroom-32 wifi), I make a basic smart home. In this project, After you connect your arduino with phone; if you want to control door, when you enter the password, door can open and closed by phone. In the phone, you can control RGB led. If the gas sensor triggered and after passing the threashold, you can see in the phone, there will be "There is a gas leak at home!". Only way to close the sensor, you have to go inside home and check, what is triggered the sensor. The buzzer is going active while gas sensor triggered. Also If wrong door card is readed, the door will be close and buzzer will triggered. In the outside lambs will close if the sun is coming in to the home.
+
 <img src="readme_images/Home.jpg" alt="drawing" width="400" height="500"/>
 
 ## Getting Started
