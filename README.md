@@ -35,6 +35,7 @@ In 'My Projects' you have to click 'Import project(.aia) from my computer...' th
 [![Watch Video](http://img.youtube.com/vi/ME7YP17dJ90/0.jpg)](http://www.youtube.com/watch?v=ME7YP17dJ90 "Smart Home Circuit")
 
 ### Smart Home Video
+[![Watch Video](http://img.youtube.com/vi/WSZNuxo6CYQ/0.jpg)](http://www.youtube.com/watch?v=WSZNuxo6CYQ "Smart Home")
 
 ## License
 
